@@ -1,5 +1,7 @@
 .idea
 
+pantini.session
+
 # Logs
 logs
 *.log
