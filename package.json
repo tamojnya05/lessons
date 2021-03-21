@@ -1,0 +1,14 @@
+{
+  "name": "jpx",
+  "description": "Trading goodies by John Pantini",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tamojnya05/jpx.git"
+  },
+  "license": "MIT",
+  "version": "1.0.0",
+  "dependencies": {
+    "socket.io-client": "^4.0.0"
+  },
+  "devDependencies": {}
+}
